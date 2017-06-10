@@ -1,0 +1,47 @@
+############ Privacy Policy for WeatherClockWidget ############ 
+
+Personal information:
+This application does not collect any personal information about users of my application.
+
+Geo-Location:
+This application, when you turn on the "GPS Location detection" setting determines the location of your mobile device. This information serves only to download weather forecast data. Only information about the current location is stored on the device. When you get new coordinates, it is overwritten.
+
+Access to the Internet:
+This application, if there is an Internet connection, downloads the weather forecast from the Internet resource http://api.openweathermap.org
+
+Links in applications
+This application does not contain any external links.
+
+Advertising
+This application does not contain any third-party advertising.
+
+
+Confidentiality Questions:
+If you have any questions about my programs or privacy policy, please contact me at: michaelborzov88@gmail.com
+
+
+
+
+
+
+############ Политика Конфиденциальности для приложения WeatherClockWidget ############ 
+
+Личная информация:
+Данное приложение не собирает никакой личной информации о пользователях моего приложения.
+
+
+Гео-Location:
+Данное приложение при включении настройки "GPS Location detection" определяет местоположении вашего мобильного устройства. Данная информация служит лишь для загрузки данных прогноза погоды. Информация только о текущем местоположении сохраняется на устройстве. При получении новых координат, она затирается.
+
+Доступ в интернет:
+Данное приложение при наличии выхода в интернет осуществляет загрузку прогноза погоды с интернет-ресурса http://api.openweathermap.org
+
+Ссылки в приложениях
+Данное приложение не содержит внешних ссылок.
+
+Реклама
+Данное приложение не содержит какую-либо рекламу третьих лиц.
+
+
+Конфиденциальность Вопросы:
+Если у вас есть какие-либо вопросы о моих программах или политике конфиденциальности, пожалуйста, свяжитесь со мной по адресу: michaelborzov88.@gmail.com
